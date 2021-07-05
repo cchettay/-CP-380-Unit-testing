@@ -5,3 +5,10 @@ C:\Users\HP\source\repos\IsItALeapYear\obj\Debug\IsItALeapYear.csprojAssemblyRef
 C:\Users\HP\source\repos\IsItALeapYear\obj\Debug\IsItALeapYear.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\IsItALeapYear\obj\Debug\IsItALeapYear.exe
 C:\Users\HP\source\repos\IsItALeapYear\obj\Debug\IsItALeapYear.pdb
+C:\Users\HP\Documents\GitHub\CP-380-Unit-testing\IsItALeapYear\bin\Debug\IsItALeapYear.exe.config
+C:\Users\HP\Documents\GitHub\CP-380-Unit-testing\IsItALeapYear\bin\Debug\IsItALeapYear.exe
+C:\Users\HP\Documents\GitHub\CP-380-Unit-testing\IsItALeapYear\bin\Debug\IsItALeapYear.pdb
+C:\Users\HP\Documents\GitHub\CP-380-Unit-testing\IsItALeapYear\obj\Debug\IsItALeapYear.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\CP-380-Unit-testing\IsItALeapYear\obj\Debug\IsItALeapYear.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\CP-380-Unit-testing\IsItALeapYear\obj\Debug\IsItALeapYear.exe
+C:\Users\HP\Documents\GitHub\CP-380-Unit-testing\IsItALeapYear\obj\Debug\IsItALeapYear.pdb
